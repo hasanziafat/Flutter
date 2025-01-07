@@ -12,4 +12,4 @@
 
 1. ابتدا این پروژه را کلون یا دانلود کنید:
    ```bash
-   git clone https://github.com/hasanziafat/Flutter/edit/master/flutter_stateful_widget_color_change.git
+   git clone https://github.com/hasanziafat/Flutter.git
