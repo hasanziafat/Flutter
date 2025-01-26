@@ -1,16 +1,15 @@
-# flutter_stateful_widget_color_change
+# تغییر رنگ پس‌زمینه و متن با استفاده از StatefulWidget در فلاتر
 
-A new Flutter project.
+این پروژه یک اپلیکیشن ساده فلاتر است که با استفاده از `StatefulWidget` پیاده‌سازی شده است. این اپلیکیشن قابلیت تغییر رنگ پس‌زمینه و رنگ متن را با هر بار کلیک روی صفحه دارد. این پروژه به شما کمک می‌کند تا مفهوم مدیریت وضعیت و تغییر رنگ‌ها در فلاتر را بهتر درک کنید.
 
-## Getting Started
+## ویژگی‌ها
 
-This project is a starting point for a Flutter application.
+- استفاده از `StatefulWidget` برای مدیریت وضعیت.
+- قابلیت تغییر رنگ پس‌زمینه و رنگ متن با هر بار کلیک روی صفحه.
+- استفاده از `setState()` برای به‌روزرسانی رابط کاربری.
 
-A few resources to get you started if this is your first Flutter project:
+## نحوه استفاده
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. ابتدا این پروژه را کلون یا دانلود کنید:
+   ```bash
+   git clone https://github.com/hasanziafat/Flutter.git
