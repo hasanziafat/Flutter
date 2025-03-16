@@ -1,16 +1,16 @@
-# first_app
+# پروژه پیش‌فرض Flutter
 
-A new Flutter project.
+این پروژه یک اپلیکیشن ابتدایی Flutter است که برای شروع و آزمایش فریمورک Flutter استفاده می‌شود.
 
-## Getting Started
+## نحوه نصب و راه‌اندازی
 
-This project is a starting point for a Flutter application.
+1. مطمئن شوید که Flutter SDK نصب شده است.
+2. پروژه را clone کنید.
+3. وابستگی‌ها را با اجرای دستور زیر نصب کنید:
+   ```bash
+   flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ###  ویژگی‌ها
+- ساختار ابتدایی پروژه فلاتر
+- دکمه شمارش‌گر (counter)
+- طراحی ساده و مینیمال
